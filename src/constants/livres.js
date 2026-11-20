@@ -1,0 +1,42 @@
+export const livres = [
+  {
+    id: '1',
+    titre: 'Le Petit Prince',
+    auteur: 'Antoine de Saint-Exupéry',
+    categorie: 'Roman',
+    prix: '8,90 €',
+    image: 'https://covers.openlibrary.org/b/isbn/9782070612758-L.jpg',
+  },
+  {
+    id: '2',
+    titre: 'Les Misérables',
+    auteur: 'Victor Hugo',
+    categorie: 'Classique',
+    prix: '12,50 €',
+    image: 'https://covers.openlibrary.org/b/isbn/9782253096344-L.jpg',
+  },
+  {
+    id: '3',
+    titre: 'L’Étranger',
+    auteur: 'Albert Camus',
+    categorie: 'Roman',
+    prix: '7,90 €',
+    image: 'https://covers.openlibrary.org/b/isbn/9782070360024-L.jpg',
+  },
+  {
+    id: '4',
+    titre: 'Harry Potter à l’école des sorciers',
+    auteur: 'J. K. Rowling',
+    categorie: 'Fantastique',
+    prix: '10,90 €',
+    image: 'https://covers.openlibrary.org/b/isbn/9782070643028-L.jpg',
+  },
+  {
+    id: '5',
+    titre: 'Le Tour du monde en 80 jours',
+    auteur: 'Jules Verne',
+    categorie: 'Aventure',
+    prix: '9,50 €',
+    image: 'https://covers.openlibrary.org/b/id/12491388-L.jpg',
+  },
+];
